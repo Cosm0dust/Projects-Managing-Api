@@ -26,9 +26,7 @@ cd kit-taskmanager `
 
 ### Install Dependencies
 
-`npm install
-# or
-yarn install`
+# yarn install
 
 ### Set Up Environment Variables
 
@@ -42,15 +40,13 @@ JWT_SECRET=your_jwt_secret_key`
 
 ### Start Development Server
 
-`npm run start:dev
-# or
-yarn start:dev`
+# yarn start:dev
 
 ### Testing
 
 To run tests, use the following command:
 
-yarn test`
+# yarn test
 
 API Documentation
 -----------------
