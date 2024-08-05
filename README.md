@@ -32,11 +32,6 @@ cd kit-taskmanager `
 
 Create a `.env` file in the root directory with the following content:
 
-# MongoDB URI
-MONGODB_URI=mongodb+srv://<username>:<password>@<your-cluster-url>/<database-name>?retryWrites=true&w=majority
-
-# JWT Secret Key
-JWT_SECRET=your_jwt_secret_key`
 
 ### Start Development Server
 
