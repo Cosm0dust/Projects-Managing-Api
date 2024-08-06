@@ -1,4 +1,6 @@
-# Kit Task Manager
+# Task Manager
+
+## Practice 4 hours project
 
 ## Description
 
